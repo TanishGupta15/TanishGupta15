@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Tanish Gupta :raising_hand_man:, a CS enthusiast, music lover and an inquisitive mind, currently pursuing Bachelor's in CSE from IIT Delhi.
+I am Tanish Gupta :raising_hand_man:, a CS enthusiast, music lover, and an inquisitive mind, currently pursuing a Bachelor's in CSE from IIT Delhi.
 
-A Crypto/Blockchain + Federated Learning aficionado, I love to learn Ethical Hacking 💻 in my free time. Outside college, you'll find me playing Badminton or watching NumberPhile / 3Blue1Brown. 
+A Crypto/Blockchain aficionado, I love to learn Ethical Hacking 💻 in my free time. Outside college, you'll find me playing Badminton or watching NumberPhile / 3Blue1Brown. 
 
 Wanna learn something new together? Let's connect! 😄
